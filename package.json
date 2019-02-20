@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react learning",
+  "main": "index.html",
+  "scripts": {
+  "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	 "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bheemsetty/React.git"
+  },
+  "author": "Mahesh Bheemsetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bheemsetty/React/issues"
+  },
+  "homepage": "https://github.com/bheemsetty/React#readme",
+  "dependencies": {
+    "npm": "^6.8.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
